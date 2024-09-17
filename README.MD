@@ -9,3 +9,6 @@ A tarefa consistia em definir as classes de equivalência e valores-limite para 
 Como resultado, fui capaz de aplicar as técnicas de design de teste para definir corretamente as classes de equivalência e valores-limite, garantindo que os casos de teste cobririam os cenários necessários de forma eficaz.
 
 <img src="Imagens\Image (5).png">
+
+- Ferramenta usada:
+   Draw.io
